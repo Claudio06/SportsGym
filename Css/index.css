@@ -186,7 +186,7 @@ header {
   display: inline-block;
   width: 1em;
   height: 1em;
-  background-image: url('/Imagenes/flashlight-fill.svg');
+  background-image: url('../Imagenes/flashlight-fill.svg');
   
   margin-right: 0.5em;
   vertical-align: middle;
