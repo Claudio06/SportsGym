@@ -3,45 +3,45 @@ const d = document;
 const listServices = [
   {
     title: "Workouts",
-    img: "/Imagenes/icono1.png",
+    img: "./Imagenes/icono1.png",
   },
   {
     title: "Trainers",
-    img: "/Imagenes/icono2.png",
+    img: "./Imagenes/icono2.png",
   },
   {
     title: "Fitness",
-    img: "/Imagenes/icono3.png",
+    img: "./Imagenes/icono3.png",
   },
   {
     title: "Crossfit",
-    img: "/Imagenes/icono4.png",
+    img: "./Imagenes/icono4.png",
   },
 ];
 const galeria = [
   {
     title: "Strength",
-    img: "/Imagenes/galeria1.webp",
+    img: "./Imagenes/galeria1.webp",
   },
   {
     title: "Dance",
-    img: "/Imagenes/galeria2.webp",
+    img: "./Imagenes/galeria2.webp",
   },
   {
     title: "Hot Yoga",
-    img: "/Imagenes/galeria3.webp",
+    img: "./Imagenes/galeria3.webp",
   },
   {
     title: "Cardio",
-    img: "/Imagenes/galeria4.webp",
+    img: "./Imagenes/galeria4.webp",
   },
   {
     title: "Group Fitness",
-    img: "/Imagenes/galeria5.webp",
+    img: "./Imagenes/galeria5.webp",
   },
   {
     title: "Cross Training",
-    img: "/Imagenes/galeria6.webp",
+    img: "./Imagenes/galeria6.webp",
   },
 ];
 
