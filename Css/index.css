@@ -76,7 +76,7 @@ nav ul a:active{
   z-index: 2;
 }
 header {
-  background-image: url("./Imagenes/header.webp");
+  background-image: url("//Imagenes/header.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
